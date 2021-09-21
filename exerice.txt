@@ -1,0 +1,75 @@
+exerice1
+<html>
+    <head>
+        <p>vaishnavi Gupta p</p>
+    </head>
+    <body>
+
+    </body>
+</html>
+exerice2
+<html>
+    <head>
+        <title>This is a webpage</title>
+    </head>
+    <body>
+
+    </body>
+</html>
+3.<html>
+    <head>
+      
+    </head>
+    <body style="color:Green" >
+    Vaishnavi Gupta P
+    </body>
+</html>
+4.
+<html>
+    <head>
+
+    </head>
+    <body>
+        <p style="font-family:courier">This is paragraph 1</p>
+        <p style="font-family:Georgia">This is paragraph 2</p>
+        <p style="font-family:Times New Roman">This is paragraph 3</p>
+        <p style="font-family:verdana">This is paragraph 4</p>
+        <p style="font-family:arial">This is paragraph 5</p>
+    </body>
+</html>
+5.
+<html>
+    <head>
+        <title> The Street Lawyer</title>
+    </head>
+    <body>
+        <p>One particular book which is recommended reading is <u>The Street Lawyer</u> by <u>John Grisham</u>. This book is 
+about a lawyer who begins re-evaluating his priorities in life when a bad incident occurs within his law 
+firm. Consequently, he becomes acquainted with the inner city streets, and realizes the harsh existence 
+of the homeless, and vows to give them a chance in the courts. <u>The Street Lawyer</u> is a <b><i>great</b></i> book. It is
+<b><i>well written</b></i> and <b><i>interesting</b></i>. Other books by <u>John Grisham</u> include <u>The Firm</u>, <u>The Pelican Brief</u>, and <u>The 
+Client</u>.</p>
+
+    </body>
+</html>
+7.
+<html>
+    <head></head>
+    <body>
+        <a href="https://www.google.com">Google</a><br>
+        <a href="https://www.yahoo.com">Yahoo</a><br>
+        <a href="https://www.javatpoint.com">Javatpoint</a>
+    </body>
+</html>
+8.
+<html>
+    <head>
+
+    </head>
+    <body>
+        <a href="https://www.google.com/search?q=dog&sxsrf=AOaemvIupI_fhPQ2VGfuFODmOoob5ryBtQ:1632211107847&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjV9Z-azI_zAhWzzjgGHXmoAMQQ_AUoAXoECAEQAw&biw=1540&bih=795&dpr=1.25https://www.google.com/search?q=dog&sxsrf=AOaemvIupI_fhPQ2VGfuFODmOoob5ryBtQ:1632211107847&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjV9Z-azI_zAhWzzjgGHXmoAMQQ_AUoAXoECAEQAw&biw=1540&bih=795&dpr=1.25"><img src="dog.jpg"></a>
+        <a href="https://www.google.com/search?q=cat&tbm=isch&ved=2ahUKEwiF4OKbzI_zAhWnJLcAHVLRDNwQ2-cCegQIABAA&oq=cat&gs_lcp=CgNpbWcQAzIHCAAQsQMQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIHCAAQsQMQQzIECAAQQzIECAAQQzIECAAQQzIHCAAQsQMQQzoHCCMQ7wMQJzoKCAAQsQMQgwEQQzoKCCMQ7wMQ6gIQJ1CJhBZYpZEWYKycFmgBcAB4AIABywGIAboGkgEFMC40LjGYAQCgAQGqAQtnd3Mtd2l6LWltZ7ABCsABAQ&sclient=img&ei=p5BJYcXwAafJ3LUP0qKz4A0&bih=795&biw=1540#imgrc=KSvVG9ttes5ckM"><img src="catt.jpg"></a>
+        
+        
+    </body>
+</html>
